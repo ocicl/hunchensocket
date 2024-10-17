@@ -4,6 +4,6 @@ RFC6455 compliant WebSockets for Common Lisp
 
 |---------+-----------------------------------------------------|
 | source  | git:https://github.com/joaotavora/hunchensocket.git |
-| commit  | 7e33d62                                             |
+| commit  | 8f90c5b                                             |
 | systems | hunchensocket                                       |
 |---------+-----------------------------------------------------|
